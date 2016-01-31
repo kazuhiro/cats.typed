@@ -2,6 +2,10 @@
 
 org.clojure/core.typed definitions for funcool/cats library
 
+
+[![Clojars Project](https://img.shields.io/clojars/v/cats.typed.svg)](https://clojars.org/cats.typed)
+
+
 ## Notes
 This library is not yet finished. As for know there are annotations for:
 * cats.monad.either
